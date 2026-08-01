@@ -1,5 +1,11 @@
 # graphql-orm-backup
 
+> [!IMPORTANT]
+> This standalone repository is deprecated and will no longer be updated.
+> Development has moved to the
+> [`graphql-orm` monorepo](https://github.com/Dastari/graphql-orm), under
+> [`crates/graphql-orm-backup`](https://github.com/Dastari/graphql-orm/tree/main/crates/graphql-orm-backup).
+
 `graphql-orm-backup` provides backup repository, snapshot manifest, verification, restore,
 incremental backup, and compaction orchestration for applications that use `graphql-orm`.
 
